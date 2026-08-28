@@ -1,0 +1,19 @@
+{
+  "name": "UNO Battle",
+  "short_name": "UNO Battle",
+  "description": "A playful offline UNO match tracker for friends.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#ec1c24",
+  "orientation": "portrait",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
